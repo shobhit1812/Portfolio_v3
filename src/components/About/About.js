@@ -7,7 +7,7 @@ import {
   TechImg,
   TechName,
   ContactWrapper,
-} from "./AboutElements";
+} from "../About/AboutElement";
 function About() {
   return (
     <ContactWrapper id="about">

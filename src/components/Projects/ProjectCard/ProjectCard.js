@@ -6,7 +6,7 @@ import {
   CardRight,
   Stack,
   BtnGroup,
-} from "./ProjectCardElements";
+} from "../ProjectCard/ProjectCardElement";
 function ProjectCard() {
   return (
     <>

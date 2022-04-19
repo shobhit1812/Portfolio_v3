@@ -9,7 +9,7 @@ import {
   Image,
   ScrollDown,
   ScrollLink,
-} from "./HeroElements";
+} from "../Hero/HeroElement";
 function Hero() {
   const [isOpen, setIsOpen] = useState(false);
 

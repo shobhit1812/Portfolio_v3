@@ -1,6 +1,6 @@
 import React from "react";
 import SocialIcon from "../SocialIcon/SocialIcon";
-import { ContactWrapper, Email } from "./ContactElements";
+import { ContactWrapper, Email } from "../Contact/ContactElement";
 function Contact() {
   return (
     <ContactWrapper id="contact">
