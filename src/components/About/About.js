@@ -16,7 +16,7 @@ function About() {
         <div className="BigCard">
           <Image
             src="https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/about.jpg"
-            alt="man-svgrepo"
+            alt="Shobhit Photo"
           />
           <div className="AboutBio">
             Hello! My name is <strong>Shobhit Nautiyal</strong> I am 22 years old , I was Born in Rudraprayag , 18 Dec 2000 and My personality Easy going person and easy to find a new friend. I Am Very Interested In The Creative Field , Being A Developer & Designer Is One Of My Life Goals, With A Talent In This Field I Want To Always Learn New Things And Strengthen Every Process.

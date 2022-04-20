@@ -87,7 +87,7 @@ function Dropdown({ isOpen, toggle }) {
       <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
-          href="https://github.com/gurupawar/"
+          href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fraw.githubusercontent.com%2Fshobhit1812%2FShobhit-Nautiyal-Portfolio%2Fmain%2FAssets%2FShobhit-Nautiyal-Resume.pdf&clen=62304&chunk=true"
           target="_blank"
           rel="noopener noreferrer"
         >

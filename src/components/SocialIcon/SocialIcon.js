@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaTwitter, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaTwitter, FaGithub, FaWhatsapp } from "react-icons/fa";
 
 import styled from "styled-components";
 
@@ -57,6 +57,15 @@ function SocialIcon() {
             rel="noopener noreferrer"
           >
             <FaTwitter />
+          </a>
+        </li>
+        <li className="item">
+          <a
+            href="https://api.whatsapp.com/send?phone=919599443878"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaWhatsapp/>
           </a>
         </li>
       </ul>

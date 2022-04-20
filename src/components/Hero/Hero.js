@@ -32,7 +32,7 @@ function Hero() {
           <HeroRight>
             <Image
               src="https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/Avatar.svg"
-              alt="man-svgrepo"
+              alt="avatar-man"
             />
           </HeroRight>
         </HeroWrapper>
