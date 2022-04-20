@@ -1,38 +1,36 @@
 // --------------------------------------- Project List
 export const ProjectList = [
     {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
-      title: "Spense",
-      description: "Codewell challenge, Spense is a landing page for writers.",
-      tech_stack: "Html, Css, Javascript",
-      github_url: "https://your_project_github_link",
-      demo_url: "https://your_project_demo_link",
-    },
-    {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
-      title: "Fiber",
-      description:
-        "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-      tech_stack: "Html, Css, Javascript",
-      github_url: "https://your_project_github_link",
-      demo_url: "https://your_project_demo_link",
-    },
-    {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
-      title: "Portfolio",
+      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/Portfolio_v2.png",
+      title: "Portfolio_v2",
       description: "Ofcourse i made my own personal portfolio website.",
-      tech_stack: "Reactjs, Css",
-      github_url: "https://your_project_github_link",
-      demo_url: "https://your_project_demo_link/",
+      tech_stack: "Html, Css, Javascript",
+      github_url: "https://github.com/shobhit1812/Shobhit-Nautiyal-Portfolio",
+      demo_url: "https://shobhitnautiyal.netlify.app",
     },
     {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
-      title: "Ecommerce website",
-      description:
-        "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-      tech_stack: "Reactjs, Css",
-      github_url: "https://your_project_github_link",
-      demo_url: "https://your_project_demo_link",
+      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/ToDo-listapp.png",
+      title: "ToDo List",
+      description: "A simple ToDo list app by using Reactjs.",
+      tech_stack: "Reactjs, css",
+      github_url: "https://github.com/shobhit1812/ToDo-ListItems",
+      demo_url: "https://todo-listapp001.netlify.app/",
+    },
+    {
+      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/Calc.png",
+      title: "Calculator",
+      description: "Calculator in three colors.",
+      tech_stack: "Html, Css, Javascript",
+      github_url: "https://github.com/shobhit1812/Calculator",
+      demo_url: "https://calc-001.netlify.app/",
+    },
+    {
+      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/drum.png",
+      title: "Drum",
+      description: "Make your own rhythm by using classy drum.",
+      tech_stack: "Html, Css, Javascript",
+      github_url: "https://github.com/shobhit1812/Drum-Kit",
+      demo_url: "https://drumkit001.netlify.app/",
     },
   ];
   

@@ -7,7 +7,7 @@ const Header = ({ toggle }) => {
       <Nav>
         <Logo to="/">
           <img
-            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/logo.png"
+            src="https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Logo/favicon_io%20(1)/favicon.ico"
             alt="logo"
           />
         </Logo>
@@ -25,9 +25,9 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://github.com/gurupawar/"
+            href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fraw.githubusercontent.com%2Fshobhit1812%2FShobhit-Nautiyal-Portfolio%2Fmain%2FAssets%2FShobhit-Nautiyal-Resume.pdf&clen=62304&chunk=true"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noopener noreferrer" download="foo.txt"
           >
             Resume
           </a>

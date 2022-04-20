@@ -23,15 +23,15 @@ function Hero() {
       <HeroContainer>
         <HeroWrapper>
           <HeroLeft>
-            <h1>Hi, I'm YourName</h1>
-            <h5>Frontend Developer</h5>
+            <h1>Hi, I'am Shobhit</h1>
+            <h5>&lt;coder&gt;</h5>
             <p>
-              I design and code beautifully simple things, and I love what I do.
+            Front end developer who writes clean, elegant and efficient code.
             </p>
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
+              src="https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/Avatar.svg"
               alt="man-svgrepo"
             />
           </HeroRight>

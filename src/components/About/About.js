@@ -15,20 +15,14 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
           <Image
-            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
+            src="https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/about.jpg"
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Your Name</strong> Lorem Ipsum is simply
-            dummy text of the printing and typesetting industry. Lorem Ipsum has
-            been the industry's standard dummy text ever since the 1500s, when
-            an unknown printer took a galley of type and scrambled it to make a
-            type specimen book. It has survived not only five centuries, but
-            also the leap into electronic typesetting, remaining essentially
-            unchanged.
+            Hello! My name is <strong>Shobhit Nautiyal</strong> I am 22 years old , I was Born in Rudraprayag , 18 Dec 2000 and My personality Easy going person and easy to find a new friend. I Am Very Interested In The Creative Field , Being A Developer & Designer Is One Of My Life Goals, With A Talent In This Field I Want To Always Learn New Things And Strengthen Every Process.
           </div>
           <div className="AboutBio tagline2">
-            I have become confident using the following technologies.
+          And I am a student of Institute of Technology, Gopeshwar. I learn on Web Development , UI / UX Design , and DSA.
           </div>
           <Technologies>
             {stackList.map((stack, index) => (
