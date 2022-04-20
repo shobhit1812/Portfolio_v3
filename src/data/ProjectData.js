@@ -6,7 +6,7 @@ export const ProjectList = [
       description: "Ofcourse i made my own personal portfolio website.",
       tech_stack: "Html, Css, Javascript",
       github_url: "https://github.com/shobhit1812/Shobhit-Nautiyal-Portfolio",
-      demo_url: "https://shobhitnautiyal.netlify.app",
+      demo_url: "https://iamshobhit.netlify.app",
     },
     {
       img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/ToDo-listapp.png",
