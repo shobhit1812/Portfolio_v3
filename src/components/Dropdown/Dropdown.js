@@ -85,14 +85,7 @@ function Dropdown({ isOpen, toggle }) {
         </NavLink>
       </NavMenu>
       <NavBtn onClick={toggle}>
-        <a
-          className="btn PrimaryBtn"
-          href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fraw.githubusercontent.com%2Fshobhit1812%2FShobhit-Nautiyal-Portfolio%2Fmain%2FAssets%2FShobhit-Nautiyal-Resume.pdf&clen=62304&chunk=true"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Resume
-        </a>
+        <a className="btn PrimaryBtn" href="/src/Assets/Shobhit-Nautiyal-Resume.pdf" target="blank" download>Resume</a>
       </NavBtn>
     </SiderBar>
   );
