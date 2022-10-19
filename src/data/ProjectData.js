@@ -25,12 +25,12 @@ export const ProjectList = [
       demo_url: "https://calc-001.netlify.app/",
     },
     {
-      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/drum.png",
-      title: "Drum",
-      description: "Make your own rhythm by using classy drum.",
-      tech_stack: "Html, Css, Javascript",
-      github_url: "https://github.com/shobhit1812/Drum-Kit",
-      demo_url: "https://drumkit001.netlify.app/",
+      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/chat.png",
+      title: "Chat Application",
+      description: "Chat with your friends.",
+      tech_stack: "react, css",
+      github_url: "https://github.com/shobhit1812/ReactChatApp-frontend",
+      demo_url: "https://reactchatapp001.vercel.app/",
     },
   ];
   
