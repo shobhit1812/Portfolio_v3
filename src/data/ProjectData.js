@@ -30,7 +30,7 @@ export const ProjectList = [
       description: "Chat with your friends.",
       tech_stack: "react, css",
       github_url: "https://github.com/shobhit1812/ReactChatApp-frontend",
-      demo_url: "https://reactchatapp001.vercel.app/",
+      demo_url: "https://sanvaad-app.vercel.app/",
     },
   ];
   
