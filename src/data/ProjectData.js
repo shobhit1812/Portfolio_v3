@@ -54,12 +54,12 @@ export const ProjectList = [
       name: "ReactJS",
     },
     {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/bootstrap.svg",
-      name: "Bootstrap",
+      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/d9fa0fd19787f6d343635a69fbd8863f496abbfb/Assets/Images/mongo.svg",
+      name: "MongoDB",
     },
     {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/sass.svg",
-      name: "Scss",
+      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/d9fa0fd19787f6d343635a69fbd8863f496abbfb/Assets/Images/nodejs.svg",
+      name: "NodeJS",
     },
     {
       img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
@@ -68,5 +68,13 @@ export const ProjectList = [
     {
       img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/responsive.svg",
       name: "Responsive",
+    },
+    {
+      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/d9fa0fd19787f6d343635a69fbd8863f496abbfb/Assets/Images/c.svg",
+      name: "C",
+    },
+    {
+      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/d9fa0fd19787f6d343635a69fbd8863f496abbfb/Assets/Images/cpp.svg",
+      name: "C++",
     },
   ];
