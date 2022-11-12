@@ -2,11 +2,11 @@
 export const ProjectList = [
     {
       img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/Portfolio_v2.png",
-      title: "Portfolio_v2",
-      description: "Ofcourse i made my own personal portfolio website.",
-      tech_stack: "Html, Css, Javascript",
-      github_url: "https://github.com/shobhit1812/Shobhit-Nautiyal-Portfolio",
-      demo_url: "https://iamshobhit.netlify.app",
+      title: "Digital Site: An ecommerce site",
+      description: "An ecommerce webiste for electronic products.",
+      tech_stack: "reactjs, mongodb, nodejs, redux",
+      github_url: "https://github.com/shobhit1812/Digital-Site-An-ecommerce-app",
+      demo_url: "https://digitalsite.vercel.app/",
     },
     {
       img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/ToDo-listapp.png",
