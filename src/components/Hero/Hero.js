@@ -26,12 +26,12 @@ function Hero() {
             <h1>Hi, I'am Shobhit</h1>
             <h5>&lt;coder&gt;</h5>
             <p>
-            Front end developer who writes clean, elegant and efficient code.
+            Full Stack developer who writes clean, elegant and efficient code.
             </p>
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/Avatar.svg"
+              src="https://avatars.githubusercontent.com/u/88445550?v=4"
               alt="avatar-man"
             />
           </HeroRight>
