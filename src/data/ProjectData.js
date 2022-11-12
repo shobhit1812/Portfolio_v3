@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
     {
-      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/Portfolio_v2.png",
+      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/ecommerce.png",
       title: "Digital Site: An ecommerce site",
       description: "An ecommerce webiste for electronic products.",
       tech_stack: "reactjs, mongodb, nodejs, redux",
@@ -9,20 +9,20 @@ export const ProjectList = [
       demo_url: "https://digitalsite.vercel.app/",
     },
     {
-      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/ToDo-listapp.png",
-      title: "ToDo List",
-      description: "A simple ToDo list app by using Reactjs.",
-      tech_stack: "Reactjs, css",
-      github_url: "https://github.com/shobhit1812/ToDo-ListItems",
-      demo_url: "https://todo-listapp001.netlify.app/",
+      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/todo-app.png",
+      title: "ToDo App: List your Items",
+      description: "Fully functioning todo app.. easy. simple.",
+      tech_stack: "reactjs, mongodb, nodejs, expressjs",
+      github_url: "https://github.com/shobhit1812/ToDo-App",
+      demo_url: "https://todo-app001.vercel.app/",
     },
     {
-      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/Calc.png",
-      title: "Calculator",
-      description: "Calculator in three colors.",
-      tech_stack: "Html, Css, Javascript",
-      github_url: "https://github.com/shobhit1812/Calculator",
-      demo_url: "https://calc-001.netlify.app/",
+      img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/crypto.png",
+      title: "βxCrypto",
+      description: "Analysis of crypto, & live checks of their values.",
+      tech_stack: "reactjs, chakraUI",
+      github_url: "https://github.com/shobhit1812/-xCrypto",
+      demo_url: "https://x-crypto.vercel.app/",
     },
     {
       img: "https://raw.githubusercontent.com/shobhit1812/Shobhit-Nautiyal-Portfolio/main/Assets/Images/chat.png",
