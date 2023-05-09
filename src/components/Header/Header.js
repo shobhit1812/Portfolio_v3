@@ -1,6 +1,6 @@
 import React from "react";
 import { Nav, Logo, NavLink, Bars, NavMenu, NavBtn } from "../Header/HeaderElement";
-import ShobhitNautiyalResume from "./Shobhit-Nautiyal-Resume.pdf";
+import ShobhitNautiyalResume from "https://drive.google.com/file/d/1yVEm0Z_oj0FV109NvvIGgiuuKBIQgMYs/view?usp=sharing";
 
 const Header = ({ toggle }) => {
   return (
