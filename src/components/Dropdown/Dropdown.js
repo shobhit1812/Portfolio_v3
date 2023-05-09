@@ -2,7 +2,7 @@ import React from "react";
 import { FaTimes } from "react-icons/fa";
 import styled from "styled-components";
 import { Link as ScrollLink } from "react-scroll";
-import ShobhitNautiyalResume from "./Shobhit-Nautiyal-Resume.pdf";
+import ShobhitNautiyalResume from "https://drive.google.com/file/d/1yVEm0Z_oj0FV109NvvIGgiuuKBIQgMYs/view?usp=sharing";
 
 const SiderBar = styled.div`
   background: #151418;
