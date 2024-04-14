@@ -52,7 +52,7 @@ function SocialIcon() {
         </li>
         <li className="item">
         <a
-            href="https://twitter.com/shobhitnautiya_"
+            href="https://twitter.com/shobhitnautiya"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -61,7 +61,7 @@ function SocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://api.whatsapp.com/send?phone=919599443878"
+            href="https://api.whatsapp.com/send?phone=91987654321"
             target="_blank"
             rel="noopener noreferrer"
           >
