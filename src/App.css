@@ -1,0 +1,66 @@
+
+.middle-container {
+  margin-top: 100px;
+  display: block;
+  flex-wrap: nowrap;
+  box-sizing: content-box;
+}
+
+.image {
+  border-radius: 50%;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+  color: #8e806a;
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #7c99ac;
+  border-width: 10px;
+  width: 5%;
+}
+
+h3 {
+  color: #8e806a;
+  font-family: "Montserrat", sans-serif;
+}
+
+.gif {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.comp {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+} */
